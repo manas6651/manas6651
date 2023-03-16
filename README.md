@@ -15,10 +15,6 @@ I am from Kyrgyzstan 🇰🇬
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rochacbruno&show-avatar=false" width="800" />
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rochacbruno&skills=python,rust,shell,lua,html,javascript" width="800" />
-
 <details>
   <summary><small>Click for text only version.</small></summary>
 
@@ -33,7 +29,6 @@ My toolbox includes   VSCode, Git
 
 And before you have chance to ask, I use Arch Linux, I love Rust, I use Vim, I am vegan.
 
-Read my full bio [In English](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY.md) and [In Portuguese](https://github.com/rochacbruno/rochacbruno/blob/master/HISTORY_ptbr.md)
 
 </details>
 
