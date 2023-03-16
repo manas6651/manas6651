@@ -27,7 +27,7 @@ Reach me on
 I mainly code using Python, Django, DRF, FAstAPI,
 My toolbox includes   VSCode, Git
 
-And before you have chance to ask, I use Arch Linux, I love Rust, I use Vim, I am vegan.
+And before you have chance to ask, I use Arch Linux.
 
 
 </details>
